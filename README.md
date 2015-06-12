@@ -1,4 +1,4 @@
-# SQUID FUNDAMENTAL TRAINING
+## SQUID FUNDAMENTAL TRAINING
 > Seluruh materi dan source code
 > yang ada disini adalah 
 > untuk kepentingan Squid Fundamental Training
