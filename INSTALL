@@ -1,1 +1,5 @@
-/usr/share/automake-1.11/INSTALL
+tar -xvf SFT.tar.gz
+mkdir -p /opt/SFT
+./configure --prefix=/opt/SFT
+make
+make install
